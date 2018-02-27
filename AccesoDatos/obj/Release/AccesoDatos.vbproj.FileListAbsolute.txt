@@ -1,0 +1,10 @@
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Amaia\source\repos\Lab2HADS25\AccesoDatos\obj\Release\AccesoDatos.pdb
